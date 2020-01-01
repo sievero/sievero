@@ -1,6 +1,10 @@
 <template>
   <q-page padding>
-    <q-markdown :src="mdPrivacy" />
+    <div class="row justify-center">
+      <div class="col-md-8">
+        <q-markdown :src="mdPrivacy" />
+      </div>
+    </div>
   </q-page>
 </template>
 
