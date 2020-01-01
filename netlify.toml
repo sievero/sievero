@@ -1,3 +1,0 @@
-[build]
-  publish = "dist/ssr"
-  command = "quasar build -m ssr"
